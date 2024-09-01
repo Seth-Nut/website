@@ -30,13 +30,13 @@ Nuestro equipo está compuesto por profesionales apasionados por la enseñanza y
 
 ## Contáctenos
 
-Para más información, contáctenos en:  
+Para más información, contáctenos en: 
+
+🌐 **[Página Web](https://seth-nut.github.io/website/)**  
 📧 **sethnut.pymath@gmail.com**  
-📞 **+56994541139**
+🖁 **+56994541139**
 
 ## Conéctate con Nosotros
 
-- [LinkedIn](https://www.linkedin.com/company/datadomz)
-- [GitHub](https://github.com/datadomz)
-
-
+- [LinkedIn](https://www.linkedin.com/company/Seth-Nut)
+- [GitHub](https://github.com/Seth-Nut)

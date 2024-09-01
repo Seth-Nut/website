@@ -302,9 +302,9 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://www.linkedin.com/company/datadomz
+      - url: https://www.linkedin.com/company/Seth-Nut
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/datadomz
+      - url: https://github.com/Seth-Nut
         icon: "fab fa-github"
 
 es-ES:
