@@ -1,0 +1,8 @@
+#Color Customization
+#highlight: "#ffe599"
+#white: "#FF0000"
+#black: "#000"
+
+#Image Customization
+header-image: "../img/education.jpg"
+contact-image: "../img/map-image.png"
