@@ -180,14 +180,14 @@ es: &DEFAULT_ES
     text: ""
     section: servicios
     list:
-      - title: "Programas Educativos Gratuitos"
-        desc: "Ofrecemos cursos y talleres gratuitos en programación y matemáticas, diseñados para todos los niveles, desde principiantes hasta avanzados, con un enfoque práctico y colaborativo."
+      - title: "Programas Educativos Accesibles"
+        desc: "Ofrecemos cursos y talleres de programación y matemáticas para todos los niveles, con un enfoque práctico y colaborativo."
         icon: fas fa-chalkboard-teacher
       - title: "Recursos Didácticos para el Aprendizaje"
         desc: "Proporcionamos material educativo de alta calidad, como guías de estudio, ejercicios interactivos y videos tutoriales, para apoyar el aprendizaje autónomo y continuo."
         icon: fas fa-book
       - title: "Acompañamiento Continuo y Mentorías"
-        desc: "Nuestro equipo de mentores expertos brinda apoyo personalizado a los estudiantes, guiándolos en su camino de aprendizaje y ayudándolos a superar desafíos en programación y matemáticas."
+        desc: "Nuestro equipo de mentores expertos ofrece apoyo personalizado, guiando a los estudiantes en su aprendizaje y ayudándolos a superar distintos desafíos."
         icon: fas fa-hands-helping
 
 
