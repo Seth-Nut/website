@@ -1,13 +1,13 @@
 ---
 title: Charlas
 subtitle: Nuestros charlas.
-image: assets/img/portfolio/talk.jpg
+image: assets/img/portfolio/img_03.jpeg
 alt: 
 
 caption:
   title: Charlas
   subtitle: Nuestros charlas
-  thumbnail: assets/img/portfolio/talk.jpg
+  thumbnail: assets/img/portfolio/img_03.jpeg
 ---
 
 En Seth&Nut, participamos activamente en charlas para comunidades de código abierto a nivel nacional e internacional, con el objetivo de democratizar el conocimiento en programación, matemáticas y ciencia de datos.

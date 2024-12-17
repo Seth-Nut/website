@@ -1,13 +1,13 @@
 ---
 title: Blog
 subtitle: Nuestros artículos.
-image: assets/img/portfolio/blog2.png
+image: assets/img/portfolio/img_01.jpeg
 alt: Shirts on a hanger
 
 caption:
   title: Blog
   subtitle: Nuestros artículos
-  thumbnail: assets/img/portfolio/blog2.png
+  thumbnail: assets/img/portfolio/img_01.jpeg
 ---
 
 En **Seth&Nut**, estamos firmemente comprometidos con la difusión del conocimiento y el aprendizaje accesible para todos. Como equipo, impulsamos esta misión a través de nuestro blog educativo.

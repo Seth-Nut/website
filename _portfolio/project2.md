@@ -1,13 +1,13 @@
 ---
 title: Educación
 subtitle: Nuestros cursos.
-image: assets/img/portfolio/education.jpg
+image: assets/img/portfolio/img_02.jpeg
 alt: Keep Exploring
 
 caption:
   title: Educación
   subtitle:  Nuestros cursos
-  thumbnail: assets/img/portfolio/education.jpg
+  thumbnail: assets/img/portfolio/img_02.jpeg
 ---
 En Seth&Nut, nos especializamos en ofrecer talleres y cursos de programación y matemáticas, así como en desarrollo de software y ciencia de datos. 
 

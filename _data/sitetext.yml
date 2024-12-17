@@ -244,18 +244,19 @@ es: &DEFAULT_ES
     horizontal-scrolling: "no" #"yes/no"
 
     list:
+      - title: "uc"
+        url: 
+        logo: assets/img/clients/uc.png
       - title: "usm"
         url: 
         logo: assets/img/clients/usm2.png
-      - title: "duoc"
-        url: 
-        logo: assets/img/clients/duoc.png
       - title: "pythonchile"
         url: 
         logo: assets/img/clients/pychile.png
-      - title: "usm"
+      - title: "duoc"
         url: 
-        logo: assets/img/clients/dmat.png
+        logo: assets/img/clients/duoc.png
+
 
 
 
