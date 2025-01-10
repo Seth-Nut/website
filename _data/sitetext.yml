@@ -255,7 +255,7 @@ es: &DEFAULT_ES
         logo: assets/img/clients/pychile.png
       - title: "duoc"
         url: 
-        logo: assets/img/clients/duoc.png
+        logo: assets/img/clients/duoc-valpo.png
 
 
 
