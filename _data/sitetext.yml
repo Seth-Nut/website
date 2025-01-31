@@ -193,7 +193,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Portafolio"
-    text: "Relacionandos con nuestra comunidad"
+    text: ""
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
@@ -269,7 +269,7 @@ es: &DEFAULT_ES
     people:
       - name: "Valeska Canales"
         role: "Founder"
-        image: assets/img/team/vcanales.jpg
+        image: assets/img/team/vale3.png
         social:
           - url: https://github.com/vcanalesp
             icon: fab fa-github
