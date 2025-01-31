@@ -193,7 +193,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Portafolio"
-    text: ""
+    text: "Relacionandos con nuestra comunidad"
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
