@@ -267,23 +267,30 @@ es: &DEFAULT_ES
     subtext: Nuestro equipo está comprometido con la educación inclusiva y el aprendizaje continuo, participando activamente en la comunidad educativa y contribuyendo a proyectos abiertos que promueven el conocimiento en programación y matemáticas. 
     section: equipo
     people:
-      - name: "Valeska Canales"
-        role: "Founder"
-        image: assets/img/team/vale3.png
-        social:
-          - url: https://github.com/vcanalesp
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/vcanalesp/
-            icon: fab fa-linkedin-in
       - name: "Francisco Alfaro"
-        role: "Founder"
+        role: "Fundador"
         image: assets/img/team/fralfaro.jpg
         social:
           - url: https://github.com/fralfaro
             icon: fab fa-github
           - url: https://www.linkedin.com/in/faam/
             icon: fab fa-linkedin-in
-
+      - name: "Valeska Canales"
+        role: "Fundador"
+        image: assets/img/team/vale3.png
+        social:
+          - url: https://github.com/vcanalesp
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/vcanalesp/
+            icon: fab fa-linkedin-in
+      - name: "Dorian Villegas R."
+        role: "Colaborador"
+        image: assets/img/team/dorian.png
+        social:
+          - url: https://github.com/dovirojas
+            icon: fab fa-github
+          - url: https://www.linkedin.com/in/dovirojas/
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contáctenos"
