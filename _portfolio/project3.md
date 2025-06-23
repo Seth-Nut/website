@@ -14,7 +14,20 @@ En Seth&Nut, participamos activamente en charlas para comunidades de código abi
 
 Nuestras presentaciones abarcan desde fundamentos hasta las últimas innovaciones tecnológicas, y están diseñadas para audiencias diversas, promoviendo una educación inclusiva y accesible.
 
-{:.list-inline}
-- Autor: [Seth & Nut](https://seth-nut.github.io/resources/talks/)
-- Charlas: [Link del enlace](https://seth-nut.github.io/resources/talks/)
 
+<div style="
+  border: 2px solid var(--md-accent-fg-color);
+  padding: 1.2em;
+  border-radius: 12px;
+  background-color: var(--md-accent-bg-color);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  text-align: center;
+  margin: 1.5em 0;
+">
+  <a href="https://seth-nut.github.io/resources/talks/"
+     class="md-button md-button--primary"
+     style="font-size: 1.2rem; padding: 1em 2em; border-radius: 10px;"
+     target="_blank">
+    🎤 Visitar Charlas de Seth & Nut
+  </a>
+</div>
