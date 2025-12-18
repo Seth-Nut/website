@@ -171,7 +171,7 @@ en-AU:
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido a Seth&Nut!
-    text: Programación y Matemáticas al Alcance de Todos
+    text: Investigación en Educación y Tecnología
     button: Ver más
     buttonlink: "#servicios"
 
@@ -180,15 +180,15 @@ es: &DEFAULT_ES
     text: ""
     section: servicios
     list:
-      - title: "Programas Educativos Accesibles"
-        desc: "Ofrecemos cursos y talleres de programación y matemáticas para todos los niveles, con un enfoque práctico y colaborativo."
+      - title: "Investigación en Educación y Tecnología"
+        desc: "Desarrollamos y presentamos investigaciones en congresos nacionales e internacionales, abordando la enseñanza de la matemática, la programación y la ciencia de datos."
+        icon: fas fa-microscope
+      - title: "Colaboración Académica y Proyectos Educativos"
+        desc: "Participamos en iniciativas colaborativas con universidades, contribuyendo al diseño, análisis y desarrollo de herramientas y metodologías para la educación superior."
+        icon: fas fa-university
+      - title: "Charlas y Talleres Universitarios"
+        desc: "Realizamos charlas y talleres en instituciones de educación superior, orientados a la divulgación científica, la innovación docente y el uso de tecnologías abiertas."
         icon: fas fa-chalkboard-teacher
-      - title: "Recursos Didácticos para el Aprendizaje"
-        desc: "Proporcionamos material educativo de alta calidad, como guías de estudio, ejercicios interactivos y videos tutoriales, para apoyar el aprendizaje autónomo y continuo."
-        icon: fas fa-book
-      - title: "Acompañamiento Continuo y Mentorías"
-        desc: "Nuestro equipo de mentores expertos ofrece apoyo personalizado, guiando a los estudiantes en su aprendizaje y ayudándolos a superar distintos desafíos."
-        icon: fas fa-hands-helping
 
 
   portfolio:
@@ -227,6 +227,12 @@ es: &DEFAULT_ES
         desc: "En 2023-2024, nos aliamos con DUOC UC para ofrecer talleres y cursos, ampliando nuestro alcance y fortaleciendo nuestro compromiso con la educación accesible y de calidad."
         image: assets/img/timeline/10.jpg
         alt: Alianza con DUOC UC
+
+      - title: "Participación en Congresos"
+        year: "2024-2025"
+        desc: "Entre 2024 y 2025, nos enfocamos en el desarrollo y presentación de investigaciones en congresos nacionales e internacionales sobre educación matemática, programación y ciencia de datos."
+        image: assets/img/timeline/14.png
+        alt: Participación en congresos académicos
         
         # you can enforce the alignment
         end: "¡Únete <br> a Nuestra <br> Misión!"
@@ -234,7 +240,7 @@ es: &DEFAULT_ES
   about:
     title: "Sobre Nosotros"
     text: ""
-    body: "Seth&Nut fue fundada con el propósito de democratizar el acceso a la educación en programación y matemáticas. Nuestro equipo, apasionado por la enseñanza y la innovación, está dedicado a brindar recursos educativos accesibles y de alta calidad para todas las personas, independientemente de su nivel de experiencia. Creemos que el conocimiento en estas áreas es una herramienta poderosa para empoderar a las comunidades y fomentar un futuro más equitativo y tecnológico."
+    body: "Seth&Nut es una iniciativa académica orientada al desarrollo de investigación educativa, colaboración interuniversitaria y divulgación científica en matemática, programación y ciencia de datos. Nuestro trabajo se centra en la participación en congresos nacionales e internacionales, la colaboración con proyectos educativos y la realización de charlas y talleres en universidades. Creemos que la investigación, las tecnologías abiertas y la colaboración académica son claves para fortalecer la educación superior y generar un impacto formativo sostenible."
     section: nosotros
 
   clients:
@@ -253,9 +259,9 @@ es: &DEFAULT_ES
       - title: "pythonchile"
         url: 
         logo: assets/img/clients/pychile.png
-      - title: "duoc"
+      - title: "pucv"
         url: 
-        logo: assets/img/clients/duoc-valpo.png
+        logo: assets/img/clients/pucv.png
 
 
 
@@ -293,8 +299,8 @@ es: &DEFAULT_ES
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
-    text: "sethnut.pymath@gmail o llamar al +56994541139"
+    title: "Contacto"
+    text: "Consultas académicas y colaboraciones: sethnut.pymath@gmail.com (o al +56 9 9454 1139)"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
